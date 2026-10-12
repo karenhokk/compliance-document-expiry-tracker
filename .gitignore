@@ -1,0 +1,11 @@
+# Confidential real data
+*_real_document*.csv
+*.env
+
+# Local generated reports
+document_expiry_alert_report.csv
+*.log
+
+# Python cache
+__pycache__/
+*.pyc
