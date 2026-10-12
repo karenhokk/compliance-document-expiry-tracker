@@ -1,0 +1,5 @@
+doc_id,doc_type,masked_owner,expiry_date,doc_status
+D001,License Certificate,Staff_01,2026-10-20,Active
+D002,Internal Policy,Team_02,2026-12-01,Active
+D003,Training Record,Staff_03,2026-09-01,Expired
+D004,Third-Party Certificate,Partner_04,2026-11-10,Active
